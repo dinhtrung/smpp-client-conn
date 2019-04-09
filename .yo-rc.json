@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "SmppClientConnector",
+    "packageName": "com.ft",
+    "packageFolder": "com/ft",
+    "serverPort": 8081,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "YzEyODVmMGY0MGI0NjI2MzQzZmQ1ODg4MWNiMWQ3ZWQ2NzY4OTVhNDU4NjFhMWU3YWY4ZmU1NjU1MDk1NDU1OGZiNWFhYjIzYWRkNWZjZWVlZDVlOWM1OGZjYTU2Yjc2ZjgxNjE3NGQ5MzM5MzdmZjgxYzI4MTMwYzhiNGU4ODc=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "dinhtrung",
+  "repository-name": "smpp-client-conn"
+}
